@@ -232,10 +232,10 @@
 		<item name="wbb.acp.menu.link.content.threadsAndPosts"><![CDATA[Tematy i posty]]></item>
 		<item name="wbb.acp.menu.link.content.threadsAndPosts.massProcessing"><![CDATA[Przetwarzanie tematów]]></item>
 		<item name="wbb.acp.menu.link.content.threadsAndPosts.postsMassProcessing"><![CDATA[Przetwarzanie postów ]]></item>
-		<item name="wbb.acp.menu.link.maintenance.updateCounters"><![CDATA[Aktualizuj licznik]]></item>
+		<item name="wbb.acp.menu.link.maintenance.updateCounters"><![CDATA[Aktualizuj liczniki]]></item>
 	</category>
 	<category name="wbb.acp.updateCounters">
-		<item name="wbb.acp.updateCounters"><![CDATA[Aktualizuj licznik ]]></item>
+		<item name="wbb.acp.updateCounters"><![CDATA[Aktualizuj liczniki ]]></item>
 		<item name="wbb.acp.updateCounters.counter"><![CDATA[Licznik]]></item>
 		<item name="wbb.acp.updateCounters.counter.boards"><![CDATA[Zaktualizuj fora]]></item>
 		<item name="wbb.acp.updateCounters.counter.description"><![CDATA[Proszę wybrać który licznik ma być zaktualizowany!]]></item>
@@ -248,7 +248,7 @@
 		<item name="wbb.acp.updateCounters.counter.thumbnails"><![CDATA[Zaktualizuj miniatury ]]></item>
 		<item name="wbb.acp.updateCounters.counter.users"><![CDATA[Zaktualizuj użytkowników]]></item>
 		<item name="wbb.acp.updateCounters.limit"><![CDATA[Cykl odświeżania  ]]></item>
-		<item name="wbb.acp.updateCounters.limit.description"><![CDATA[Liczba odświeża na jeden cykl]]></item>
+		<item name="wbb.acp.updateCounters.limit.description"><![CDATA[Liczba odświeżeń na jeden cykl]]></item>
 	</category>
 	<category name="wbb.acp.user">
 		<item name="wbb.acp.user.button.merge"><![CDATA[Połącz]]></item>
