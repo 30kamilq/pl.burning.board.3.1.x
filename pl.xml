@@ -5409,7 +5409,7 @@ Team {PAGE_TITLE}]]></item>
 		<item name="wcf.usersOnline.invisible"><![CDATA[(Niewidoczny)]]></item>
 		<item name="wcf.usersOnline.ipAddress"><![CDATA[Adres IP]]></item>
 		<item name="wcf.usersOnline.lastActivity"><![CDATA[Ostatnia aktywność]]></item>
-		<item name="wcf.usersOnline.location"><![CDATA[Loaklizacja]]></item>
+		<item name="wcf.usersOnline.location"><![CDATA[Lokalizacja]]></item>
 		<item name="wcf.usersOnline.location.attachment"><![CDATA[Załączniki]]></item>
 		<item name="wcf.usersOnline.location.attachmentList"><![CDATA[Lista własnych załączników]]></item>
 		<item name="wcf.usersOnline.location.help"><![CDATA[<a href="index.php?page=Help{SID_ARG_2ND}">Pomoc</a>]]></item>
@@ -5440,7 +5440,7 @@ Team {PAGE_TITLE}]]></item>
 		<item name="wcf.usersOnline.location.usersOnline"><![CDATA[<a href="index.php?page=UsersOnline{SID_ARG_2ND}">Kto jest online?</a>]]></item>
 		<item name="wcf.usersOnline.marking.friends"><![CDATA[Przyjaciele]]></item>
 		<item name="wcf.usersOnline.marking.legend"><![CDATA[Legenda]]></item>
-		<item name="wcf.usersOnline.members"><![CDATA[Obecnie jest {if $users|count == 1}jeden zarejestrowany użytkownik{else}are {#$users|count} zarejestrowanych użytkowników{/if} online]]></item>
+		<item name="wcf.usersOnline.members"><![CDATA[Obecnie jest {if $users|count == 1}jeden zarejestrowany użytkownik{else} {#$users|count} zarejestrowanych użytkowników{/if} online]]></item>
 		<item name="wcf.usersOnline.spiderName"><![CDATA[Nazwa]]></item>
 		<item name="wcf.usersOnline.spiders"><![CDATA[Obecnie {if $spiders|count == 1}jeden robot{else} {#$spiders|count} robotów{/if} jest online
 ({if $detailedSpiderList}<a href="index.php?page=UsersOnline&amp;sortField={$sortField}&amp;sortOrder={$sortOrder}&amp;detailedSpiderList=0{if $additionalParameters|isset}{@$additionalParameters}{/if}{@SID_ARG_2ND}">Ukryj szczegóły</a>{else}<a href="index.php?page=UsersOnline&amp;sortField={$sortField}&amp;sortOrder={$sortOrder}&amp;detailedSpiderList=1{if $additionalParameters|isset}{@$additionalParameters}{/if}{@SID_ARG_2ND}">Pokaż szczegóły</a>{/if})]]></item>
