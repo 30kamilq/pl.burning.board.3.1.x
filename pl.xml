@@ -3176,7 +3176,7 @@ Ta opcja nie jest obsługiwana przez wszystkie serwery pocztowe i powinna być w
 	</category>
 	<category name="wcf.acp.updateServer">
 		<item name="wcf.acp.updateServer.add"><![CDATA[Dodaj serwer]]></item>
-		<item name="wcf.acp.updateServer.add.success"><![CDATA[Serwer został pomyślnie dodany,]]></item>
+		<item name="wcf.acp.updateServer.add.success"><![CDATA[Serwer został pomyślnie dodany.]]></item>
 		<item name="wcf.acp.updateServer.data"><![CDATA[Dane serwera]]></item>
 		<item name="wcf.acp.updateServer.delete"><![CDATA[Usuń serwer]]></item>
 		<item name="wcf.acp.updateServer.delete.success"><![CDATA[Serwer został pomyślnie usunięty.]]></item>
@@ -3321,7 +3321,7 @@ Team {PAGE_TITLE}]]></item>
 		<item name="wcf.acp.user.option.add"><![CDATA[Dodaj nowe pole w profilu]]></item>
 		<item name="wcf.acp.user.option.add.success"><![CDATA[Nowe pole w profilu zostało pomyślnie dodane.]]></item>
 		<item name="wcf.acp.user.option.askDuringRegistration"><![CDATA[To pole ma być pokazywane podczas rejestracji.]]></item>
-		<item name="wcf.acp.user.option.category.add"><![CDATA[Dodaj nową kategorie pól w profilu]]></item>
+		<item name="wcf.acp.user.option.category.add"><![CDATA[Dodaj nową kategorię pól w profilu]]></item>
 		<item name="wcf.acp.user.option.category.add.success"><![CDATA[Nowa kategoria została pomyślnie dodana.]]></item>
 		<item name="wcf.acp.user.option.category.categoryID"><![CDATA[ID]]></item>
 		<item name="wcf.acp.user.option.category.delete"><![CDATA[Usuń kategorię]]></item>
