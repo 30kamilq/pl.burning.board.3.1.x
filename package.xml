@@ -3,8 +3,8 @@
   <packageinformation>
     <packagename>Polish language for Burning Board 3.1.7</packagename>
     <packagedescription>Polish language for Burning Board 3.1.7</packagedescription>
-    <version>1.0.1</version>
-    <date>2012-09-08</date>
+    <version>1.0.2</version>
+    <date>2012-08-14</date>
 
    
     <plugin>com.woltlab.wbb</plugin>
