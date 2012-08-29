@@ -2954,7 +2954,7 @@ Ta opcja nie jest obsługiwana przez wszystkie serwery pocztowe i powinna być w
 		<item name="wcf.acp.style.editor.folder"><![CDATA[Folder]]></item>
 		<item name="wcf.acp.style.editor.font"><![CDATA[Font]]></item>
 		<item name="wcf.acp.style.editor.font.2nd.color"><![CDATA[Second text colour]]></item>
-		<item name="wcf.acp.style.editor.font.color"><![CDATA[Text colour]]></item>
+		<item name="wcf.acp.style.editor.font.color"><![CDATA[Kolor tekstu]]></item>
 		<item name="wcf.acp.style.editor.font.color.use"><![CDATA[Use your own text colours]]></item>
 		<item name="wcf.acp.style.editor.font.colors"><![CDATA[Text colours]]></item>
 		<item name="wcf.acp.style.editor.font.face"><![CDATA[Font face]]></item>
@@ -5383,7 +5383,7 @@ Team {PAGE_TITLE}]]></item>
 		<item name="wcf.user.userGroups.application.declined.notification.subject"><![CDATA[Zgłoszenie do grupy {$groupName} zostało odrzucone]]></item>
 		<item name="wcf.user.userGroups.application.delete"><![CDATA[Usuń zaznaczone zgłoszenia]]></item>
 		<item name="wcf.user.userGroups.application.edit"><![CDATA[Edytuj zgłoszenie]]></item>
-		<item name="wcf.user.userGroups.application.enableNotification"><![CDATA[Informuj e-mailem, jeśli zgłoszenie jest ocenione]]></item>
+		<item name="wcf.user.userGroups.application.enableNotification"><![CDATA[Wyśli do mnie e-maila, jeśli zgłoszenie zostało rozpatrzone]]></item>
 		<item name="wcf.user.userGroups.application.for"><![CDATA[Członkostwo w]]></item>
 		<item name="wcf.user.userGroups.application.lastEditBy"><![CDATA[Ostatnia zmiana]]></item>
 		<item name="wcf.user.userGroups.application.leader.notification.mail"><![CDATA[Witaj {$recipient},
@@ -5401,18 +5401,18 @@ Team {PAGE_TITLE}]]></item>
 		<item name="wcf.user.userGroups.application.leader.notification.subject"><![CDATA[Nowe zgłoszenie na {PAGE_TITLE}]]></item>
 		<item name="wcf.user.userGroups.application.reason"><![CDATA[Powód]]></item>
 		<item name="wcf.user.userGroups.application.reply"><![CDATA[Odpowiedz]]></item>
-		<item name="wcf.user.userGroups.application.status"><![CDATA[Status aplikacji]]></item>
-		<item name="wcf.user.userGroups.application.status.0"><![CDATA[Niedokończone]]></item>
+		<item name="wcf.user.userGroups.application.status"><![CDATA[Status zgłoszenia]]></item>
+		<item name="wcf.user.userGroups.application.status.0"><![CDATA[Nierozpatrzone]]></item>
 		<item name="wcf.user.userGroups.application.status.1"><![CDATA[W toku]]></item>
 		<item name="wcf.user.userGroups.application.status.2"><![CDATA[Odrzucone]]></item>
 		<item name="wcf.user.userGroups.application.status.3"><![CDATA[Zaakceptowane]]></item>
 		<item name="wcf.user.userGroups.application.time"><![CDATA[Data zgłoszenia]]></item>
 		<item name="wcf.user.userGroups.application.withdraw"><![CDATA[Wycofaj zgłoszenie]]></item>
-		<item name="wcf.user.userGroups.application.withdraw.sure"><![CDATA[Czy na pewno chcesz wycofać to zgłoszenie?]]></item>
+		<item name="wcf.user.userGroups.application.withdraw.sure"><![CDATA[Czy na pewno chcesz wycofać zgłoszenie?]]></item>
 		<item name="wcf.user.userGroups.applications"><![CDATA[Napisałeś zgłoszenia do następujących grup:]]></item>
-		<item name="wcf.user.userGroups.apply"><![CDATA[Apply to usergroup]]></item>
+		<item name="wcf.user.userGroups.apply"><![CDATA[Dołącz do grupy]]></item>
 		<item name="wcf.user.userGroups.groupLeaders"><![CDATA[Liderzy grupy]]></item>
-		<item name="wcf.user.userGroups.groupLeaders.description"><![CDATA[Proszę wpisać jednego lub więcej liderów grupy (oddzielone przecinkami).]]></item>
+		<item name="wcf.user.userGroups.groupLeaders.description"><![CDATA[Proszę podać jednego lub więcej liderów tej grupy (oddzielaj nicki przecinkiem).]]></item>
 		<item name="wcf.user.userGroups.groupType.4"><![CDATA[Zamknięta grupa]]></item>
 		<item name="wcf.user.userGroups.groupType.5"><![CDATA[Otwarta grupa]]></item>
 		<item name="wcf.user.userGroups.groupType.6"><![CDATA[Moderowana grupa]]></item>
@@ -5428,10 +5428,10 @@ Team {PAGE_TITLE}]]></item>
 		<item name="wcf.user.userGroups.leader.administrate.pm"><![CDATA[Wyślij PW do użytkowników]]></item>
 		<item name="wcf.user.userGroups.leader.administrate.pm.success"><![CDATA[Wiadomość została pomyślnie wysłana]]></item>
 		<item name="wcf.user.userGroups.leader.applications"><![CDATA[{#$applications|count} Zgłoszenie/Zgłoszeń]]></item>
-		<item name="wcf.user.userGroups.leader.groups"><![CDATA[Jesteś liderem następujące grupy:]]></item>
+		<item name="wcf.user.userGroups.leader.groups"><![CDATA[Jesteś liderem następujących grup:]]></item>
 		<item name="wcf.user.userGroups.leader.title"><![CDATA[Lider grupy]]></item>
 		<item name="wcf.user.userGroups.leave"><![CDATA[Opuść grupę]]></item>
-		<item name="wcf.user.userGroups.memberships"><![CDATA[Jesteś użytkownikiem następujących grup:]]></item>
+		<item name="wcf.user.userGroups.memberships"><![CDATA[Jesteś członkiem następujących grup:]]></item>
 		<item name="wcf.user.userGroups.openGroups"><![CDATA[Możesz dołączyć do następujących grup:]]></item>
 		<item name="wcf.user.userGroups.title"><![CDATA[Grupy]]></item>
 	</category>
