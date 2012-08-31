@@ -4,7 +4,7 @@
 		<packagename>Spolszczenie do WoltLab Burning Board 3.1</packagename>
 		<packagedescription>Pełne spolszczenie do WoltLab Burning Board 3.1</packagedescription>
 		<version>1.0.2 pl 2</version>
-		<date>2012-08-23</date>
+		<date>2012-08-29</date>
 		<plugin>com.woltlab.wbb</plugin>
 		<standalone>0</standalone>
 		<isunique>0</isunique>

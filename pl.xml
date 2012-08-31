@@ -3560,7 +3560,7 @@ Team {PAGE_TITLE}]]></item>
 	</category>
 	<category name="wcf.captcha">
 		<item name="wcf.captcha.captchaString"><![CDATA[Środek bezpieczeństwa]]></item>
-		<item name="wcf.captcha.captchaString.description"><![CDATA[Proszę wpisać tekst pokazany na obrazku poniżej (bez spacji, duże lub małe litery mogą być używane). Jeśli nie można zidentyfikować captcha nawet po przeładowaniu to skontaktuj się z administratorem tej strony.]]></item>
+		<item name="wcf.captcha.captchaString.description"><![CDATA[Proszę wpisać tekst pokazany na obrazku poniżej (bez spacji, duże lub małe litery mogą być używane). Jeśli nie możesz zidentyfikować captchy nawet po przeładowaniu strony, to skontaktuj się z administratorem tej strony.]]></item>
 		<item name="wcf.captcha.captchaString.title"><![CDATA[Kod zabezpieczający]]></item>
 		<item name="wcf.captcha.error.captchaString.false"><![CDATA[Podałeś nieprawidłowy kod. Spróbuj ponownie.]]></item>
 		<item name="wcf.captcha.maximize"><![CDATA[Zwiększenie rozmiaru obrazu]]></item>
@@ -5270,8 +5270,8 @@ Team {PAGE_TITLE}]]></item>
 		<item name="wcf.user.register.activation.userID"><![CDATA[ID użytkownika]]></item>
 		<item name="wcf.user.register.awaitActivation"><![CDATA[Dziękujemy za rejestrację, {$username}. Wkrótce konto zostanie sprawdzone przez administratora <br />
 Jak tylko twoje konto zostało aktywowane, otrzymasz potwierdzenie e-mailem.]]></item>
-		<item name="wcf.user.register.confirmEmail.description"><![CDATA[Potwierdź twój adres e-mail!]]></item>
-		<item name="wcf.user.register.confirmPassword.description"><![CDATA[Potwierdź twój adres e-mail!]]></item>
+		<item name="wcf.user.register.confirmEmail.description"><![CDATA[Powtórz twój adres e-mail.]]></item>
+		<item name="wcf.user.register.confirmPassword.description"><![CDATA[Powtórz twoje hasło.]]></item>
 		<item name="wcf.user.register.disclaimer"><![CDATA[<p>Rejestracja i korzystanie z tego forum jest całkowicie darmowe. Kliknij &quot;Akceptuj&quot; jeśli zgadzasz się z podanymi poniżej zasadami. Tylko wtedy będziesz mógł się zarejestrować.</p>
 				
 <p>Pomimo że administratorzy i moderatorzy {lang}{PAGE_TITLE}{/lang} starają się usuwać lub edytować wszystkie niechciane posty, czasami niemożliwe jest sprawdzenie wszystkich treści. Właściciele {lang}{PAGE_TITLE}{/lang} i WoltLab GmbH  (developer Burning Board) nie ponoszą żadnej odpowiedzialności za treści znajdujące się na tej stronie.</p>
@@ -5284,7 +5284,7 @@ Jak tylko twoje konto zostało aktywowane, otrzymasz potwierdzenie e-mailem.]]><
 		<item name="wcf.user.register.disclaimer.button.accept"><![CDATA[Akceptuj]]></item>
 		<item name="wcf.user.register.disclaimer.button.decline"><![CDATA[Odrzuć]]></item>
 		<item name="wcf.user.register.disclaimer.title"><![CDATA[Rejestracja]]></item>
-		<item name="wcf.user.register.email.description"><![CDATA[Podaj swój adres e-mail!]]></item>
+		<item name="wcf.user.register.email.description"><![CDATA[Podaj twój adres e-mail.]]></item>
 		<item name="wcf.user.register.error.disabled"><![CDATA[Rejestracja jest obecnie wyłączona.]]></item>
 		<item name="wcf.user.register.error.userAlreadyEnabled"><![CDATA[Ten użytkownik jest już aktywowany]]></item>
 		<item name="wcf.user.register.invitation"><![CDATA[Zarejestruj teraz!]]></item>
@@ -5323,7 +5323,7 @@ Team {PAGE_TITLE}]]></item>
 
 użytkownik {$username} zarejestrował się na {PAGE_TITLE}.]]></item>
 		<item name="wcf.user.register.notification.mail.subject"><![CDATA[Rejestracja na  {PAGE_TITLE}]]></item>
-		<item name="wcf.user.register.password.description"><![CDATA[{if REGISTER_ENABLE_PASSWORD_SECURITY_CHECK && REGISTER_PASSWORD_MIN_LENGTH}Hasło musi mieć {REGISTER_PASSWORD_MIN_LENGTH} liter.{else}Bezpieczne hasło powinno mieć co najmniej 8 znaków.{/if}]]></item>
+		<item name="wcf.user.register.password.description"><![CDATA[{if REGISTER_ENABLE_PASSWORD_SECURITY_CHECK && REGISTER_PASSWORD_MIN_LENGTH}Hasło musi zawierać co najmniej {REGISTER_PASSWORD_MIN_LENGTH} liter.{else}Bezpieczne hasło powinno zawierać co najmniej 8 znaków.{/if}]]></item>
 		<item name="wcf.user.register.success"><![CDATA[Dziękujemy za rejestrację {$username}. Rejestracja jest już całkowicie zakończona.]]></item>
 		<item name="wcf.user.register.title"><![CDATA[Rejestracja]]></item>
 		<item name="wcf.user.register.username.description"><![CDATA[Nazwa użytkownika musi zawierać co najmniej {REGISTER_USERNAME_MIN_LENGTH} i maksymalnie {REGISTER_USERNAME_MAX_LENGTH} znaków.]]></item>
